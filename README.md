@@ -31,7 +31,7 @@
 
 <a name = "获取代码"></a>
 ### 获取代码 ###
-* github项目主页：<https://github.com/jinjian1306410206/photoExhibition.git>
+* github项目主页：<https://github.com/jinjian1306410206/photoExb.git>
 
 
 <a name = "致谢"></a>
