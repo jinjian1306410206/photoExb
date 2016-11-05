@@ -12,13 +12,13 @@
 
 <a name = "项目名称"></a>
 ## 项目名称 ##
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;photoExb图片展 </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;雅图 </br>
 
 
 
 <a name = "项目介绍"></a>
 ## 项目介绍 ##
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目是一个图片展览单页，采用js插件实现瀑布流布局，精选一些艺术图片展放，给人以视觉上的美感。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目是一个图片展览小站，采用js插件实现瀑布流布局，精选一些艺术图片展放，给人以视觉上的美感。
 
 
 <a name = "使用说明"></a>
@@ -31,12 +31,12 @@
 
 <a name = "获取代码"></a>
 ### 获取代码 ###
-* github项目主页：<https://github.com/jinjian1306410206/photoExb.git>
+* github项目主页：<https://github.com/jinjian1306410206/yatoo.git>
 
 
 <a name = "致谢"></a>
 ## 致谢 ##
 * 敬爱的组员：  
-***徐建辉1***
+***徐建辉***
 * 尊敬的老师：
 ***孙林***
