@@ -1,0 +1,48 @@
+* { margin: 0; padding: 0;font-family: "Microsoft Yahei";}
+
+.clear{ clear: both;}
+
+h1 { margin: 0 0 30px; font-size: 60px; font-weight: 500; text-align: center;}
+.explain { margin-bottom: 80px; font-size: 14px; text-align: center;}
+.list { width: 1064px; margin: 0 auto; overflow: hidden; zoom: 1;}
+.list ul { float: left; width: 246px; margin: 0 10px; list-style-type: none;}
+.list li { margin-bottom: 20px;}
+.list img { width: 100%; border-radius: 5px; vertical-align: top;}
+
+.vad { margin: 50px 0 5px; padding-bottom: 100px; font-family: Consolas,arial,宋体; text-align:center;}
+.vad a { display: inline-block; height: 36px; line-height: 36px; margin: 0 5px; padding: 0 50px; font-size: 14px; text-align:center; color:#eee; text-decoration: none; background-color: #111; border-radius: 10px;}
+.vad a:hover { background-color:#666; }
+#categories { display: inline-block;  position: relative;}
+#categories a{ display: inline-block; height: 36px; line-height: 36px; margin: 0 5px; padding: 0 50px; font-size: 14px; text-align:center; color:#eee; text-decoration: none; background-color: #111;}
+#categories ul{ display: none; list-style: none; position: absolute;
+    top: 36px; left: 0px; }
+#categories ul a{ padding: 0 59.5px 0 50px;  }
+#categories a:hover { background-color:#666; }
+
+.logo_img{
+    width: 151px;
+    height: 78px;
+    background: url("../images/logo.png") no-repeat no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+.left_form{ float: left; vertical-align: top; margin-left: 100px;}
+.left_form input,label{ display: block;}
+.form_name,.form_email{ display: inline-block;}
+.form_name input{ width: 200px; height: 40px;}
+.form_email input{ width: 200px; height: 40px;}
+.form_message textarea{ width: 600px; height: 200px; resize: none;}
+.right_contact{ float: right;}
+#wrapper{}
+#inner{ width: 980px; margin: 0 auto;}
+.actions{ list-style: none;}
+.actions a{ display: inline-block; text-decoration: none;
+    width: 100px;
+    line-height: 30px;
+    text-align: center;
+    background-color: #cccccc;
+    border-radius: 10px;
+}
+.actions a:hover{ background-color: #555; color: #ffffff;}
